@@ -46,9 +46,8 @@
 
 |Project|Description|Tech|
 |-|-|-|
-|[portfolio](https://github.com/priyanshukateshiya/portfolio)|Personal portfolio website showcasing projects \& skills|CSS, HTML|
-|[android-task-app](https://github.com/priyanshukateshiya/android-task-)|Android task management app with clean UI|Kotlin, Android|
-|[food-application](https://github.com/priyanshukateshiya/Food-application-)|Food ordering Android application|Kotlin, Firebase|
+|[portfolio](https://bhargav923.github.io/portfolio/)|Personal portfolio website showcasing projects \& skills|CSS, HTML|
+
 
 \---
 
