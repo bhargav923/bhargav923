@@ -9,7 +9,7 @@
 
 ### 🙋 About Me
 
-* 🔭 Currently working on [**portfolio**](https://github.com/priyanshukateshiya/portfolio)
+* 🔭 Currently working on Ecommerce Web
 * 🌱 Learning **Advanced Android Development \& System Design**
 * 👯 Open to **Internships, Collaborations \& Open Source**
 * 💬 Ask me about **Android, Kotlin, Java, Web Development**
