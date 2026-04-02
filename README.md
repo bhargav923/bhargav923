@@ -53,13 +53,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 &#x20; <img src="https://github-readme-stats.vercel.app/api?username=bhargav923\&show\_icons=true\&theme=tokyonight\&hide\_border=true" height="160"/>
 
 &#x20; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav923\&layout=compact\&theme=tokyonight\&hide\_border=true" height="160"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
