@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer • Android Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\\\&pause=1000\\\&color=378ADD\\\&center=true\\\&vCenter=true\\\&width=435\\\&lines=Building+apps+that+solve+real+problems;Android+%7C+Web+%7C+Open+Source;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\\\&pause=1000\\\&color=378ADD\\\&center=true\\\&vCenter=true\\\&width=435\\\&lines=Building+apps+that+solve+real+problem;Android+%7C+Web+%7C+Open+Source;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 \---
