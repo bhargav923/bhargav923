@@ -51,9 +51,7 @@
 
 
 
-<p align="center">
 
-&#x20; <img src="https://github-readme-streak-stats.herokuapp.com?user=bhargav923\&theme=tokyonight\&hide\_border=true" />
 
 </p>🤝 Connect With Me
 
