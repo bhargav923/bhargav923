@@ -19,7 +19,7 @@
 
 I'm a **B.Tech Computer Engineering student** and an **App Developer** interested in building practical software applications that solve real-world problems.
 
-I enjoy working on application development, exploring new technologies, and turning ideas into functional products.
+I enjoy turning ideas into functional applications, exploring new technologies, and continuously improving my development skills.
 
 * 🎓 B.Tech Computer Engineering Student
 * 📱 Focused on **Application Development**
@@ -32,8 +32,28 @@ I enjoy working on application development, exploring new technologies, and turn
 
 ## ⚡ What I Work With
 
+### 📱 Application Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android,php,js,html,css,mongodb,mysql,firebase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android" />
+</p>
+
+### 💻 Programming & Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+</p>
+
+### 🗄️ Database & Services
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 </p>
 
 <p align="center">
@@ -43,10 +63,14 @@ I enjoy working on application development, exploring new technologies, and turn
   <code>Android</code> •
   <code>PHP</code> •
   <code>JavaScript</code> •
+  <code>HTML</code> •
+  <code>CSS</code> •
   <code>MongoDB</code> •
   <code>MySQL</code> •
   <code>Firebase</code> •
-  <code>Hive</code>
+  <code>Hive</code> •
+  <code>Git</code> •
+  <code>GitHub</code>
 </p>
 
 ---
@@ -57,13 +81,18 @@ I enjoy working on application development, exploring new technologies, and turn
 
 **Automated QR-Based Attendance System for Rural Schools**
 
-A practical attendance solution designed for schools with limited connectivity.
+A practical attendance solution designed to simplify student attendance management, especially in environments with limited connectivity.
 
-**Highlights**
+**Key Features**
 
-`QR Attendance` `Offline Support` `Camera Verification` `Student Management` `Reports`
+* QR-based attendance
+* Student registration & management
+* Offline attendance support
+* Camera-based verification
+* Attendance records
+* Excel / PDF report export
 
-**Built with:** `PHP` `MongoDB` `ESP8266`
+**Technology:** `PHP` `MongoDB` `ESP8266` `QR Code`
 
 ---
 
@@ -71,13 +100,20 @@ A practical attendance solution designed for schools with limited connectivity.
 
 **Property & Broker Mobile Application**
 
-A mobile application for managing houses, properties and farms with useful tools for users and brokers.
+A mobile application focused on houses, properties and farms, providing useful tools for users and brokers.
 
-**Highlights**
+**Key Features**
 
-`Property Listings` `Price Comparison` `Visit Management` `AI Recommendations` `Farm Analysis`
+* Property listings
+* Property location details
+* Price comparison
+* Broker follow-up
+* Visit management
+* AI property recommendations
+* Farm analysis
+* Local data storage
 
-**Built with:** `Flutter` `Dart` `Hive`
+**Technology:** `Flutter` `Dart` `Hive`
 
 ---
 
@@ -85,13 +121,20 @@ A mobile application for managing houses, properties and farms with useful tools
 
 **E-Commerce Web Application**
 
-An online shopping platform featuring customer and administration functionality.
+An online shopping application featuring customer functionality and an administration panel.
 
-**Highlights**
+**Key Features**
 
-`Products` `Cart` `Wishlist` `Reviews` `Coupons` `Orders` `Admin Panel`
+* Product browsing
+* Shopping cart
+* Wishlist
+* Ratings & reviews
+* Coupons & offers
+* Order management
+* Admin dashboard
+* Payment integration
 
-**Built with:** `PHP` `MySQL` `JavaScript`
+**Technology:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -104,7 +147,7 @@ An online shopping platform featuring customer and administration functionality.
 </p>
 
 <p align="center">
-  <i>More about my projects, skills and development journey.</i>
+  <i>Explore my projects, skills and development journey.</i>
 </p>
 
 ---
