@@ -1,77 +1,185 @@
-<h1 align="center">Hi 👋, I'm Bhargav dudhagara</h1>
-<h3 align="center">Full Stack Developer • Android Developer • Open Source Enthusiast</h3>
+# 👋 Hi, I'm Bhargav Dudhagara
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\\\&pause=1000\\\&color=378ADD\\\&center=true\\\&vCenter=true\\\&width=435\\\&lines=Building+apps+that+solve+real+problem;Android+%7C+Web+%7C+Open+Source;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%7C+Laravel+%7C+React+Developer;Building+Practical+Software+Solutions;Always+Learning+%26+Building!" alt="Typing SVG" />
 </p>
 
-\---
-
-### 🙋 About Me
-
-* 🔭 Currently working on Ecommerce Web
-* 🌱 Learning **Advanced Android Development \& System Design**
-* 👯 Open to **Internships, Collaborations \& Open Source**
-* 💬 Ask me about **Android, Kotlin, Java, Web Development**
-* 📫 Reach me at: **bhargavdudhagara019@email.com** *(update karo)*
-* ⚡ Fun fact: I love turning ideas into real apps!
-
-\---
-
-### 🛠 Tech Stack
-
-**Mobile**
-
-!\[Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
-!\[Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
-!\[Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-
-**Web**
-
-!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-!\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-**Tools \& Platforms**
-
-!\[Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-!\[Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-!\[Android Studio](https://img.shields.io/badge/Android\_Studio-3DDC84?style=flat\&logo=android-studio\&logoColor=white)
-!\[VS Code](https://img.shields.io/badge/VS\_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-
-\---
-
-### 📌 Featured Projects
-
-|Project|Description|Tech|
-|-|-|-|
-|[portfolio](https://bhargav923.github.io/portfolio/)|Personal portfolio website showcasing projects \& skills|CSS, HTML|
-
-
-
-
-
-
-</p>🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/bhargav923" target="\\\_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\\\&logo=github\\\&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/bhargav923">
+    <img src="https://img.shields.io/github/followers/bhargav923?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/bhargav-dudhagara-061439379/" target="\\\_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\\\&logo=linkedin\\\&logoColor=white" />
+  <a href="https://github.com/bhargav923">
+    <img src="https://komarev.com/ghpvc/?username=bhargav923&label=Profile%20Views&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **B.Tech Computer Engineering student** and a developer who enjoys turning ideas into practical software applications.
+
+I work across **web and mobile development**, with a strong interest in building complete applications — from user interfaces and APIs to databases and authentication.
+
+* 🔭 Currently building **web & mobile applications**
+* 🌱 Exploring **Advanced Flutter, Laravel, React & System Design**
+* 💻 Interested in **Full Stack & Mobile Application Development**
+* 🤝 Open to **Internships, Collaborations & Open Source**
+* ⚡ I enjoy turning real-world problems into software solutions
+* 🎯 Always learning, building and improving
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,firebase" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏫 Rural Attendance System
+
+**Automated QR-Based Attendance System for Rural Schools**
+
+A smart attendance solution designed for rural schools with offline capabilities.
+
+**Features:**
+
+* 📱 QR-based student attendance
+* 📷 Camera-based verification
+* 📴 Offline attendance support
+* 📊 Attendance records & reports
+* 📄 Excel/PDF export
+* 🔐 Student registration & management
+
+**Tech:** Laravel • PHP • MongoDB • ESP8266 • QR Code
+
+---
+
+### 🏠 EstateX — Property & Broker App
+
+A Flutter-based property application focused on **houses, properties and farms**.
+
+**Features:**
+
+* 🏡 Property listings
+* 📍 Property location details
+* 💰 Price comparison
+* 🤖 AI-based property recommendations
+* 🌾 Farm analysis
+* 📅 Visit management
+* 👤 Broker follow-up
+* 💾 Local data storage with Hive
+
+**Tech:** Flutter • Dart • Hive
+
+---
+
+### 🛒 E-Cart — E-Commerce Platform
+
+A modern e-commerce web application inspired by real-world shopping platforms.
+
+**Features:**
+
+* 🛍️ Product browsing
+* ❤️ Wishlist
+* 🛒 Shopping cart
+* ⭐ Ratings & reviews
+* 💳 Payment integration
+* 🎟️ Coupons & offers
+* 👨‍💼 Admin dashboard
+* 📦 Order management
+
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+## 📚 Currently Learning
+
+```text
+Flutter & Dart          ███████████████████░  Advanced
+Laravel & PHP           █████████████████░░░  Advanced
+React & Tailwind        ███████████████░░░░░  Intermediate
+MongoDB                 ███████████████░░░░░  Intermediate
+Java                    ██████████████░░░░░░  Intermediate
+System Design           ███████████░░░░░░░░░  Learning
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav923&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav923&layout=compact&theme=transparent&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhargav923&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhargav923&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🎓 Certifications & Learning
+
+* 📱 Flutter Development
+* ☕ Java Development
+* ☁️ Microsoft Azure AI
+* 💻 Full Stack Web Development
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/bhargav923">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhargav-dudhagara-061439379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bhargavdudhagara019@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge\\\&logo=gmail\\\&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-\---
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshukateshiya\\\&label=Profile+Views\\\&color=378ADD\\\&style=flat" alt="profile views" />
+  <b>💡 Build. Learn. Improve. Repeat.</b>
 </p>
 
-<p align="center">⭐ <i>If you find my work useful, please consider starring my repos!</i> ⭐</p>
-
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
