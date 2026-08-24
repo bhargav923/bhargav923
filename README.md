@@ -1,185 +1,150 @@
-# 👋 Hi, I'm Bhargav Dudhagara
+# Hi, I'm Bhargav Dudhagara 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%7C+Laravel+%7C+React+Developer;Building+Practical+Software+Solutions;Always+Learning+%26+Building!" alt="Typing SVG" />
-</p>
+### Full Stack & Mobile Application Developer
 
-<p align="center">
+I build practical web and mobile applications with a focus on clean interfaces, useful features, and real-world problem solving.
+
+Currently pursuing **B.Tech in Computer Engineering** and exploring modern application development across **Flutter, Laravel, React, and databases**.
+
+<p>
   <a href="https://github.com/bhargav923">
-    <img src="https://img.shields.io/github/followers/bhargav923?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/bhargav923?label=Followers&style=flat-square" />
   </a>
-  <a href="https://github.com/bhargav923">
-    <img src="https://komarev.com/ghpvc/?username=bhargav923&label=Profile%20Views&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/bhargav-dudhagara-061439379/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **B.Tech Computer Engineering student** and a developer who enjoys turning ideas into practical software applications.
-
-I work across **web and mobile development**, with a strong interest in building complete applications — from user interfaces and APIs to databases and authentication.
-
-* 🔭 Currently building **web & mobile applications**
-* 🌱 Exploring **Advanced Flutter, Laravel, React & System Design**
-* 💻 Interested in **Full Stack & Mobile Application Development**
-* 🤝 Open to **Internships, Collaborations & Open Source**
-* ⚡ I enjoy turning real-world problems into software solutions
-* 🎯 Always learning, building and improving
+* 🎓 B.Tech Computer Engineering Student
+* 💻 Building **Web & Mobile Applications**
+* 📱 Developing with **Flutter & Dart**
+* 🌐 Working with **Laravel, PHP, React & JavaScript**
+* 🗄️ Experience with **MySQL, MongoDB, Firebase & Hive**
+* 🔧 Interested in **Full Stack Development, Mobile Apps & System Design**
+* 🚀 Always learning and building new projects
 
 ---
 
-## 🧑‍💻 Tech Stack
+## Tech I Work With
 
-### 📱 Mobile Development
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,firebase" />
-</p>
+`Dart` `Java` `PHP` `JavaScript` `HTML` `CSS`
 
-### 🌐 Web Development
+**Frameworks & Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel" />
-</p>
+`Flutter` `Laravel` `React` `Tailwind CSS`
 
-### 🗄️ Database
+**Databases & Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+`MongoDB` `MySQL` `Firebase` `Hive`
 
-### 🛠️ Tools & Technologies
+**Tools**
+
+`Git` `GitHub` `VS Code` `Android Studio` `Postman`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,react,tailwind,js,mongodb,mysql,firebase,git,github" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## Selected Projects
 
-### 🏫 Rural Attendance System
+### Rural Attendance System
 
-**Automated QR-Based Attendance System for Rural Schools**
+An automated attendance solution designed for rural schools.
 
-A smart attendance solution designed for rural schools with offline capabilities.
+**Highlights**
 
-**Features:**
+* QR-based attendance
+* Student registration and management
+* Offline attendance support
+* Camera-based verification
+* Attendance reports
+* Excel / PDF export
 
-* 📱 QR-based student attendance
-* 📷 Camera-based verification
-* 📴 Offline attendance support
-* 📊 Attendance records & reports
-* 📄 Excel/PDF export
-* 🔐 Student registration & management
-
-**Tech:** Laravel • PHP • MongoDB • ESP8266 • QR Code
+**Built with:** `Laravel` `PHP` `MongoDB` `ESP8266` `QR Code`
 
 ---
 
-### 🏠 EstateX — Property & Broker App
+### EstateX
 
-A Flutter-based property application focused on **houses, properties and farms**.
+A Flutter-based property and broker application focused on houses, properties and farms.
 
-**Features:**
+**Highlights**
 
-* 🏡 Property listings
-* 📍 Property location details
-* 💰 Price comparison
-* 🤖 AI-based property recommendations
-* 🌾 Farm analysis
-* 📅 Visit management
-* 👤 Broker follow-up
-* 💾 Local data storage with Hive
+* Property listings
+* Location information
+* Price comparison
+* Broker follow-up
+* Visit management
+* AI property recommendations
+* Farm analysis
+* Local data storage
 
-**Tech:** Flutter • Dart • Hive
-
----
-
-### 🛒 E-Cart — E-Commerce Platform
-
-A modern e-commerce web application inspired by real-world shopping platforms.
-
-**Features:**
-
-* 🛍️ Product browsing
-* ❤️ Wishlist
-* 🛒 Shopping cart
-* ⭐ Ratings & reviews
-* 💳 Payment integration
-* 🎟️ Coupons & offers
-* 👨‍💼 Admin dashboard
-* 📦 Order management
-
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+**Built with:** `Flutter` `Dart` `Hive`
 
 ---
 
-## 📚 Currently Learning
+### E-Cart
 
-```text
-Flutter & Dart          ███████████████████░  Advanced
-Laravel & PHP           █████████████████░░░  Advanced
-React & Tailwind        ███████████████░░░░░  Intermediate
-MongoDB                 ███████████████░░░░░  Intermediate
-Java                    ██████████████░░░░░░  Intermediate
-System Design           ███████████░░░░░░░░░  Learning
-```
+A full-stack e-commerce web application inspired by modern online shopping platforms.
+
+**Highlights**
+
+* Product browsing
+* Shopping cart
+* Wishlist
+* Ratings & reviews
+* Coupons & offers
+* Order management
+* Admin dashboard
+* Payment integration
+
+**Built with:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargav923&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav923&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargav923&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav923&layout=compact&hide_border=true&theme=transparent" width="41%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bhargav923&theme=transparent&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhargav923&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargav923&theme=github-compact&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-## 🎓 Certifications & Learning
+## Certifications
 
-* 📱 Flutter Development
-* ☕ Java Development
-* ☁️ Microsoft Azure AI
-* 💻 Full Stack Web Development
+* Flutter Development
+* Java Development
+* Microsoft Azure AI
 
 ---
 
-## 🤝 Connect With Me
+## Let's Connect
 
-<p align="center">
-  <a href="https://github.com/bhargav923">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhargav-dudhagara-061439379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhargavdudhagara019@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <a href="https://github.com/bhargav923">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bhargav-dudhagara-061439379/">LinkedIn</a> •
+  <a href="mailto:bhargavdudhagara019@email.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 Build. Learn. Improve. Repeat.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  <i>Building today. Learning every day. Improving with every project.</i>
 </p>
