@@ -53,7 +53,7 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 ### 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
 <p align="center">
