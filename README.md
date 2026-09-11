@@ -35,7 +35,7 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 ### 📱 Application Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java" />
 </p>
 
 ### 💻 Programming & Web Technologies
